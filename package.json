@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "esModuleInterop": true,
   "description": "",
   "dependencies": {
     "typescript": "^5.9.2"
